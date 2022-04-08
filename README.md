@@ -1,0 +1,2 @@
+# data_visualization_fundamentals
+Application of data visualization concepts to validate the daily funds citation in municipalities in Rio Grande do Sul/Brazil, considering GDP. Execution of an exploratory data analysis process to understand the dataset.
